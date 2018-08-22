@@ -1,7 +1,7 @@
 {
     "meta": {
-        "latestBuild": "B2",
-        "latestDownload": "https://github.com/ProjectXENON/Xenon-Repo/releases/download/Client-B2-Patch1/ProjectXENON-B2.jar",
-        "latestBetaDownload": "https://github.com/ProjectXENON/Xenon-Repo/releases/download/Client-Beta-B3.1/ProjectXENON-B3.jar"
+        "latestBuild": "B1",
+        "latestDownload": "https://github.com/KodaxClient/Kodax-Repo/releases/download/Client-Beta-1/Kodax-B1.jar",
+        "latestBetaDownload": "https://github.com/KodaxClient/Kodax-Repo/releases/download/Client-Beta-1/Kodax-B1.jar"
     }
 }
